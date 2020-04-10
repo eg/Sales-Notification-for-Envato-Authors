@@ -15,19 +15,19 @@ This chrome extension is basically notify you when you sell an item on Envato Ma
 # Settings
 <table>
     <tr>
-        <td>apikey</td>
+        <td><b>apikey</b></td>
         <td>Your personal token</td>
     </tr>
     <tr>
-        <td>checkEverySeconds</td>
+        <td><b>checkEverySeconds</b></td>
         <td>Check every x seconds</td>
     </tr>
     <tr>
-        <td>notificationSound</td>
+        <td><b>notificationSound</b></td>
         <td>true / false</td>
     </tr>
     <tr>
-        <td>notificationSource</td>
+        <td><b>notificationSource</b></td>
         <td>Source of notification audio file.</td>
     </tr>
 </table>
