@@ -14,7 +14,7 @@ This chrome extension is basically notify you when you sell an item on Envato Ma
 <li>Click to <b>Load unpacked</b> button and select the extension folder.</li>
 <li>Done! </li>
 </ol>
-<pre>If the installation was success, you will get a notification of your last sale after.</pre>
+<pre>If the installation was success, you will get a notification of your last sale.</pre>
 
 # Settings
 <table>
