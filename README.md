@@ -1,5 +1,6 @@
 # How it works?
 This chrome extension is basically notify you when you sell an item on Envato Marketplaces.
+<img src='https://github.com/eg/Sales-Notification-for-Envato-Authors/blob/master/assets/img/preview.png?raw=true' alt='preview'>
 
 # Installation Instructions
 <ol>
