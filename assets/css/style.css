@@ -1,0 +1,38 @@
+body {
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    letter-spacing: -0.02em;
+    background: #000;
+}
+.boxWrap {
+    width: 200px;
+    padding: 20px;
+    background: #fff;
+    text-align: center;
+}
+.logo{
+    height: 46px;
+}
+.logo-wrapper{
+margin-bottom: 16px;
+}
+.head-title{
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.2em;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.muted-text{
+    font-size: 11px;
+    line-height: 1em;
+    color: #666;
+}
+.muted-text a{
+    color: #666;
+    font-weight: 500;
+    text-decoration: none !important;
+}
